@@ -1,4 +1,4 @@
-#🚀 Vending Machine Project
+# 🚀 Vending Machine Project
 
 Implements a vending machine using Verilog HDL
 
